@@ -19,4 +19,4 @@ python3 -m pip install -r requirements.txt
 
 ## Graph visualization
 
-loadi the `networkx-pyvis.html` HTML file into your browser.
+Load the `networkx-pyvis.html` HTML file in your browser.
