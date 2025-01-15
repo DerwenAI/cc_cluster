@@ -1,4 +1,6 @@
-Building an environment for Python 3.11:
+## Build an environment
+
+Based on using Python 3.11
 
 ```bash
 python3 -m venv venv
@@ -7,8 +9,14 @@ python3 -m pip install -U pip wheel
 python3 -m pip install -r requirements.txt
 ```
 
-Running the notebooks:
+
+## Run the notebooks
 
 ```bash
 ./venv/bin/jupyter-lab
 ```
+
+
+## Graph visualization
+
+loadi the `networkx-pyvis.html` HTML file into your browser.
